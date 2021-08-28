@@ -1,7 +1,7 @@
 # Jotter
 
 this is a tool which is literally on my mind since i started using pc (aggresively) and i know there are online tools which do these.
-so after all why why shouldn't i build my own.
+so after all why **why** shouldn't i build my own.
 
 as name states you can jot down stuffs quickly while using shell
 and see it later on website which is powered by Rust (server sided rendering)
